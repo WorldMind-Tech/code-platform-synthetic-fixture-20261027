@@ -1,0 +1,1 @@
+Public synthetic note: validate the ordinary price calculation only.
